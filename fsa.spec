@@ -1,6 +1,6 @@
 %define name	fsa
 %define version 0.45
-%define release %mkrel 3
+%define release %mkrel 4
 
 Name:		%{name}
 Version:	%{version}
