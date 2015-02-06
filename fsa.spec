@@ -1,6 +1,6 @@
 Name:		fsa
 Version:	0.51
-Release:	1
+Release:	2
 Summary:	Finite state automata package
 Group:		Sciences/Computer science
 License:	Freeware
