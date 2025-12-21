@@ -8,6 +8,7 @@ URL:		https://www.eti.pg.gda.pl/~jandac/fsa.html
 Source:		ftp://ftp.pg.gda.pl/pub/software/xtras-PG/fsa/%{name}_%{version}.tar.gz
 Patch:		%{name}_0.41.fileselect-shellbang.patch.bz2
 
+BuildRequires:	make
 %description
 This package contains several finite state automata-based utilities for:
 - spellchecking
